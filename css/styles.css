@@ -1,0 +1,33 @@
+body{
+  background-color: azure;
+  display: inline-block;
+}
+img{
+  height: 150px;
+  margin-bottom: 0;
+}
+.table1{
+margin-top: 0;
+}
+.javed-name{
+  position: absolute;
+  left: 180px;
+  top: 30px;
+}
+h2{
+  margin:3px;
+margin-bottom: 0;
+margin-left: 0;
+}
+font{
+  margin-top: 0;
+}
+.books-review{
+  color: blue;
+}
+h3{
+  color: blue;
+}
+.javed-profile{
+  color:black;
+}

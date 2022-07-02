@@ -1,0 +1,89 @@
+body{
+  background-color: #EEEEEE;
+}
+img{
+  height:150px;
+  display:block;
+}
+
+.hammad{
+  display: inline-block;
+  position: absolute;
+  left: 180px;
+  top: 90px;
+}
+
+.yasir{
+  display: inline-block;
+  position: absolute;
+  left: 180px;
+  top: 250px;
+}
+.mudasir{
+  border-radius: 100%;
+  display: inline-block;
+  position: absolute;
+  left: 180px;
+  top:410px;
+}
+.jaffar{
+  display: inline-block;
+  position: absolute;
+  left: 180px;
+  top:590px;
+}
+.tabish{
+  display: inline-block;
+  position: absolute;
+  left: 180px;
+  top:750px;
+}
+.salman{
+  display: inline-block;
+  position: absolute;
+  left: 180px;
+  top:920px;
+}
+.yaseen{
+  display: inline-block;
+  position: absolute;
+  left: 180px;
+  top:1090px;
+}
+.afnan{
+  display: inline-block;
+  position: absolute;
+  left: 180px;
+  top:1260px;
+}
+.hassan-anwar{
+  display: inline-block;
+  position: absolute;
+  left: 180px;
+  top:1425px;
+}
+
+
+
+
+
+
+
+
+
+hr{
+  visibility: hidden;
+}
+h2{
+  color:#417D7A;
+}
+h3{
+  margin:2px;
+}
+h4 {
+
+  margin:2px;
+}
+h5{
+  margin:2px;
+}
